@@ -13,8 +13,6 @@ In this project, I would like to present 4 different anomaly detection algorithm
    
  - [Isolation Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 
-### What is Anomaly?
-
 <p align="center">
     <img src="https://www.millimetric.ai/wp-content/uploads/2020/05/what-is-an-anomaly.jpg"> 
 </p>
