@@ -124,9 +124,9 @@ Before running the code make sure that you have these libraries:
 
  - pandas 
  - time
+ - numpy
  - sklearn
  - seaborn
- - xgboost
  - matplotlib
     
 ## Contact Me
