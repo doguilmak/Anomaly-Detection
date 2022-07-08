@@ -1,6 +1,10 @@
 
 # Anomaly Detection
 
+<p align="center">
+    <img src="https://s27389.pcdn.co/wp-content/uploads/2018/10/AdobeStock_106786408-1024x440.jpeg.optimal.jpeg"> 
+</p>
+
 ## Statement
 
 In this project, I would like to present 4 different anomaly detection algorithms with an example. These  anomaly detection algorithms presented by sklearn. As listed:
@@ -13,9 +17,6 @@ In this project, I would like to present 4 different anomaly detection algorithm
    
  - [Isolation Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 
-<p align="center">
-    <img src="https://s27389.pcdn.co/wp-content/uploads/2018/10/AdobeStock_106786408-1024x440.jpeg.optimal.jpeg"> 
-</p>
 
 ### Dictionary meaning of the word anomaly
 
