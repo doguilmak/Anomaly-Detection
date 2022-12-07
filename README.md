@@ -122,9 +122,9 @@ The anomaly score of each sample is called the Local Outlier Factor. It measures
     <img src="IsolationForest.png"> 
 </p>
 
-<i>Process took 3.139817237854004 seconds.</i>
+<br>
 
-## Sources
+<h2>Sources</h2>
 
 <ul>
 	<li><a href="https://www.merriam-webster.com/dictionary/anomaly">Merriam Webster_</a></li>
