@@ -1,7 +1,7 @@
 <h1  align=center><font  size = 6>Anomaly Detection</font></h1>
 
 <p align="center">
-    <img src="https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> 
+    <img src="https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height=450  width=1000> 
 </p>
 
 <small>Picture Source:<a  href="https://www.pexels.com/tr-tr/@daniel-reche-718241/">Daniel Reche</a></small>
