@@ -1,10 +1,10 @@
 <h1  align=center><font  size = 6>Anomaly Detection</font></h1>
 
 <p align="center">
-    <img src="https://s27389.pcdn.co/wp-content/uploads/2018/10/AdobeStock_106786408-1024x440.jpeg.optimal.jpeg"> 
+    <img src="https://images.pexels.com/photos/1556707/pexels-photo-1556707.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"> 
 </p>
 
-<small>Picture Source:<a  href="https://s27389.pcdn.co/wp-content/uploads/2018/10/AdobeStock_106786408-1024x440.jpeg.optimal.jpeg">AdobeStock</a></small>
+<small>Picture Source:<a  href="https://www.pexels.com/tr-tr/@daniel-reche-718241/">Daniel Reche</a></small>
 
 <br>
 
